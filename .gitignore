@@ -1,0 +1,20 @@
+# Node
+node_modules/
+.node_modules/
+
+# Database
+*.db
+
+# Secrets
+secrets.h
+.env
+
+# Arduino temp files
+*.ino.bin
+*.ino.bootloader.bin
+
+# VS Code
+.vscode/
+
+# Logs
+npm-debug.log
